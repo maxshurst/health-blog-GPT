@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+   
+  }
+
+  .container {
+    max-width: 600px;
+    margin: 50px auto;
+    text-align: center;
+    border-width: 3px;
+    border-color: black;
+  }
+  
+  select {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background-color: lightblue;
+  }
+  
+  #selected-topic {
+    font-size: 18px;
+    font-weight: bold;
+  }
+
